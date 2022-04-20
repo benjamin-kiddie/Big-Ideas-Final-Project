@@ -1,7 +1,7 @@
 # Big Ideas Final Project - Best Pittsburgh Neighborhood
 
 ## Project Overview
-This assignment requires using data and data visualization to determine what the best neighborhood in Pittsburgh is based on a group-chosen metric. In our case, this metric was livability.
+This assignment requires using data and data visualization to determine what the best neighborhood in Pittsburgh is based on a group-chosen metric. In our case, this metric was livability with a target audience of retirees.
 
 ## Live Laugh Love (Canvas Group 28) Team Members
 Ben Kiddie - bjk96@pitt.edu
